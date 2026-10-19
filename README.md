@@ -24,8 +24,8 @@ I created this as a practice project to understand the basics of Agentic AI, lea
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/Shayankhan123-dev/Research_ai_agent.git
+   cd Research_ai_agent
    ```
 
 2. **Create and activate a virtual environment:**
