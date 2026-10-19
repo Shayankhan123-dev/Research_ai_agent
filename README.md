@@ -45,7 +45,7 @@ I created this as a practice project to understand the basics of Agentic AI, lea
    GEMINI_API_KEY="your_google_gemini_api_key_here"
    ```
 
-## 🎯 Usage
+##  Usage
 
 To run the agent, simply execute the main script in your terminal:
 
