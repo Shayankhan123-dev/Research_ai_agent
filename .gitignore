@@ -11,3 +11,4 @@ __pycache__/
 
 # Project output files
 *.txt
+!requirements.txt
